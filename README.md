@@ -21,6 +21,6 @@ The model can detect 5 sign languages in images
 
 ![image](https://github.com/user-attachments/assets/ac7668a8-6605-420b-b7e5-0f6ca1ae24e1)
 
-![image](https://github.com/user-attachments/assets/2568ed2c-39bc-45de-a9a8-409f39006fa8)
+![image](https://github.com/user-attachments/assets/c544d073-8169-4931-8226-c353bda84c19)
 
 
