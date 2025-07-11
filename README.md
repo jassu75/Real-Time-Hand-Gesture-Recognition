@@ -17,7 +17,7 @@ The model can detect 5 sign languages in images
 4) Thumb
 5) okay
 
-##ScreenShots
+## ScreenShots
 
 ![image](https://github.com/user-attachments/assets/ac7668a8-6605-420b-b7e5-0f6ca1ae24e1)
 
