@@ -2,6 +2,9 @@
 
 **Note** : A public URL for this does not exist. The project uses your system camera to detect hand gestures. You can download the repository to view the project.
 
+## Demo Link
+[Visit Youtube](https://youtu.be/MP3bIqmON_k?si=UmykhsyY2FekzWft)
+
 ## Steps
 
 1) Clone the repository 
