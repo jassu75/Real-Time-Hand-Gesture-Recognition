@@ -1,24 +1,31 @@
-# Real Time Sign Language Recognition 
+# Real-Time Sign Language Recognition
 
-**Note** : A public URL for this does not exist. The project uses your system camera to detect hand gestures. You can download the repository to view the project.
+**Note:** This project does not have a public URL. It uses your system camera to detect hand gestures in real-time. You can download the repository to try it out.
 
 ## Demo Link
-[Visit Youtube](https://youtu.be/MP3bIqmON_k?si=UmykhsyY2FekzWft)
+[Watch on YouTube](https://youtu.be/MP3bIqmON_k?si=UmykhsyY2FekzWft)
 
-## Steps
+## Steps to Run
 
-1) Clone the repository 
-2) Install the dependencies in requirements.txt
-3) python detect_gesture.py to run the app
+1. Clone the repository  
+2. Install the dependencies listed in `requirements.txt`  
+3. Run the app with:  
+   ```bash
+   python detect_gesture.py
 
 ## Model Capabilities
 
-The model can detect 5 sign languages in images
-1) No Hand Detected
-2) Open Hand
-3) Peace
-4) Thumb
-5) okay
+The model is capable of recognizing the following 5 hand gestures:
+- 👍 Thumbs Up  
+- 👌 OK  
+- ✌️ Peace  
+- ✋ Open Hand  
+- 🚫 No Hand 
+
+## 🛠️ Technologies Used:
+- Python  
+- OpenCV  
+- MediaPipe  
 
 ## ScreenShots
 
